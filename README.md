@@ -33,3 +33,5 @@ Otvorite `variants/pogreska-prag/index.html`. Ona namjerno koristi prag 35 umjes
 ![Kontekst aplikacije](docs/slike/sustav.png)
 
 U ovoj vježbi veličina simulacije služi učenju alata. Složenost godišnjeg projekta dogovara se zasebno.
+
+### **Ne pise sta da izmjenimo**
